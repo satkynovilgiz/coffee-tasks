@@ -4,7 +4,7 @@
 
 ## **Description of the Project**
 
-**The Next Gen AI Powered Todo-List App.**
+**The Next Gen AI-Powered Todo-List App.**
 
 > With an Integration of GPT-3 APIs, suggestions for your next task come right away.
 
