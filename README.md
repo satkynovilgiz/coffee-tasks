@@ -10,7 +10,7 @@
 
 This project is a modern to-do application where users can efficiently organize and track their daily tasks. Designed with productivity in mind, it aims to keep you focused and motivated—whether you're working from a desk or grabbing a quick coffee. 
 
----
+-------
 
 ## Proposed UX Design
 
