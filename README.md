@@ -17,7 +17,7 @@ This project is a modern to-do application where users can efficiently organize 
 Design link:
 [Figma Design](https://www.figma.com/file/2DdRHkoszU7lxTvcyBchJ8/React-TODO?node-id=0%3A1)
 
----
+-------
 
 ## Getting Started
 
